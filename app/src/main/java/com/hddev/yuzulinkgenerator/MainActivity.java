@@ -19,6 +19,11 @@ import com.google.firebase.dynamiclinks.FirebaseDynamicLinks;
 import static com.hddev.yuzulinkgenerator.constants.Values.APP_PACKAGE_YUZU;
 import static com.hddev.yuzulinkgenerator.constants.Values.DOMAIN_URL_PREFIX;
 
+/**
+ * wrote all the code in a single activity.
+ * I know this is bad practice to write unorganized code
+ * I need to provide a quick solution.Time limit made me to write this ugly code.
+ */
 public class MainActivity extends AppCompatActivity {
 
 
